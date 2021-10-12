@@ -1,2 +1,2 @@
 # Python
-This repository is for keeping my practice notebooks regarding python.
+This repository is for keeping a record of my practice notebooks regarding python.
